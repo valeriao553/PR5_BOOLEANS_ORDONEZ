@@ -23,4 +23,8 @@ else:          #Si la primera opcion no es verdadera de pone la otra opcion
     
     print (" ")
 
-    ![image](https://github.com/user-attachments/assets/01fbed49-a6de-44f3-a545-6e5662d8f234)
+    
+
+![image](https://github.com/user-attachments/assets/01fbed49-a6de-44f3-a545-6e5662d8f234)
+   
+
